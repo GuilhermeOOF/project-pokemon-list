@@ -6,7 +6,7 @@
 ## When was it Develop?
 - I developed this project during the 'Semana do Zero ao Programador Contratado' event hosted by DevEmDobro.
 
-<details><summary>???</summary>
+<details style="display:flex;"><summary>???</summary>
   
 ###### Wait! Something is here?
   
